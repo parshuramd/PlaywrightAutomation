@@ -1,0 +1,21 @@
+{
+  "name": "playwrightautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parshuramd/PlaywrightAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parshuramd/PlaywrightAutomation/issues"
+  },
+  "homepage": "https://github.com/parshuramd/PlaywrightAutomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.0"
+  }
+}
